@@ -1,0 +1,9 @@
+#bonsai
+alias cdp="cd ~/Site/bonsai/pagebuilder/root/platform"
+alias cdf="cd ~/Site/bonsai/front-end"
+alias cda="cd ~/Site/bonsai/admin"
+
+alias lste="ls -la"
+
+#git
+alias gst="git status"

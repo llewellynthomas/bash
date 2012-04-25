@@ -1,0 +1,4 @@
+source ~/bin/dotfile/bash/env
+source ~/bin/dotfile/bash/config
+source ~/bin/dotfile/bash/alias
+
