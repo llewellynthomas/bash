@@ -2,8 +2,21 @@
 alias cdp="cd ~/Site/bonsai/pagebuilder/root/platform"
 alias cdf="cd ~/Site/bonsai/front-end"
 alias cda="cd ~/Site/bonsai/admin"
+alias cdi="cd ~/Site/bonsai/internal-web-service"
 
-alias lste="ls -la"
+
 
 #git
-alias gst="git status"
+alias s="git status"
+alias b="git branch"
+alias gca="git commit -a"
+alias co="git checkout"
+alias gpo="git push origin"
+alias glu="git pull upstream"
+alias glo="git pull origin"
+
+
+#system
+alias h="history"
+alias l="ls -la"
+alias ~="cd ~"
