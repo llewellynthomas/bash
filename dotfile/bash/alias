@@ -4,7 +4,9 @@ alias cdf="cd ~/Site/bonsai/front-end"
 alias cda="cd ~/Site/bonsai/admin"
 alias cdi="cd ~/Site/bonsai/internal-web-service"
 
-
+#symfony
+alias ac="./app/console cache:clear --env=prod --no-debug"
+alias sc="php symfony ccc"
 
 #git
 alias s="git status"
@@ -14,9 +16,13 @@ alias co="git checkout"
 alias gpo="git push origin"
 alias glu="git pull upstream"
 alias glo="git pull origin"
-
+alias gt="git log --graph --pretty=oneline --abbrev-commit"
 
 #system
 alias h="history"
 alias l="ls -la"
 alias ~="cd ~"
+
+
+#symfony
+alias ac="./app/console"
